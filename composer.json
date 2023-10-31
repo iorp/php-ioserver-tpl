@@ -1,0 +1,15 @@
+{
+    "name": "cluster/api-php",
+    "autoload": {
+        "psr-4": {
+            "Iorp\\Cluster\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iorp",
+            "email": "104486888+iorp@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
